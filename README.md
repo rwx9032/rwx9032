@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 -   I’m from China
--   My native language is not English, please excuse me
--   I’m currently learning c++&python
+-   My native language isn't English, please tell me if i make a translation error
+-   I’m currently learning C++ & Python
 -   My code is not very good, feel free to contact me if you have any suggestions
 -   I like playing Genshin Impact
 -   Feel free to submit pr and pull requests and interact with me
