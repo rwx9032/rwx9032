@@ -1,11 +1,11 @@
 ## Hi there 👋
 
--   I’m from China
--   My native language isn't English, please tell me if i make a translation error
+-   24岁，事学生（确信
+-   My native language isn't English, please contact me if i make a translation error
 -   I’m currently learning C++ & Python
 -   My code is not very good, feel free to contact me if you have any suggestions
 -   I like playing Genshin Impact
--   Feel free to submit pr and pull requests and interact with me
+-   Feel free to submit pr and pull requests to interact with me
 
 
 <div align="center">
