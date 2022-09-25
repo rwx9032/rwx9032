@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 -   24岁，事学生（确信
+-   喜欢唱跳rap篮球
 -   My native language isn't English, please contact me if i make a translation error
 -   I’m currently learning C++ & Python
 -   My code is not very good, feel free to contact me if you have any suggestions
