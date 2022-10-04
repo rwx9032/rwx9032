@@ -6,7 +6,7 @@
 -   I’m currently learning C++ & Python
 -   My code is not very good, feel free to contact me if you have any suggestions
 -   Please read [this](http://www.catb.org/~esr/faqs/smart-questions.html) before asking question
--   I like playing Genshin Impact
+-   A Genshin Impact player
 -   Feel free to submit pr and pull requests to interact with me
 
 
