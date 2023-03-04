@@ -3,7 +3,7 @@
 -   24岁，事学生（悲
 -   喜欢唱跳rap篮球
 -   My native language isn't English, please contact me if i make a translation error
--   I’m currently learning C++ & Python
+-   I’m learning nodejs & Python
 -   My code is not very good, feel free to contact me if you have any suggestions
 -   Please read [this](http://www.catb.org/~esr/faqs/smart-questions.html) before asking question
 -   A Genshin Impact player
