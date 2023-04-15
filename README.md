@@ -5,7 +5,7 @@
 -   My native language isn't English, please contact me if i make a translation error
 -   I’m learning nodejs & Python
 -   My code is not very good, feel free to contact me if you have any suggestions
--   Please read [this](http://www.catb.org/~esr/faqs/smart-questions.html) before asking question
+-   Please read [this](http://www.catb.org/~esr/faqs/smart-questions.html) before asking a question
 -   A Genshin Impact player
 -   Feel free to submit pr and pull requests to interact with me
 
